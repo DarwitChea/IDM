@@ -1,3 +1,5 @@
 import pandas as pd
 
-print("Hello,World")
+df = pd.read_csv('IDM.csv')
+missing_values = df.isnull().sum()
+print(missing_values)
