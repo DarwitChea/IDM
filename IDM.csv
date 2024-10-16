@@ -1,6 +1,6 @@
-No,Age,Gender,No,Age,Gender
-1,51,male,1,51,male
-2,15,Female,2,15,Female
+No,Age,Gender
+1,51,male
+2,15,Female
 3,28,Female
 2,15,Female
 3,28,Female
@@ -14,7 +14,7 @@ No,Age,Gender,No,Age,Gender
 8,36,male
 9,11,female
 10,14,male
-11,80,male
+11,80,malE
 12,2,Male
 13,69,male
 14,73,male
